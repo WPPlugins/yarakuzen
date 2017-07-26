@@ -1,0 +1,12 @@
+select.yarakuzen-languages-menu {
+	width: 90%;
+}
+
+#yarakuzen_submitdiv .notice-error {
+	color: #dc3232;
+}
+
+#yarakuzen_submitdiv .notice-error p {
+	margin: 0;
+  padding: 2px;
+}
